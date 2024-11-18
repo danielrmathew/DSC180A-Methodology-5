@@ -6,6 +6,8 @@ Section B02, Mentors: Brian Duke, Kyle Nero, Berk Ustun
 
 1. **What is the most interesting topic covered in your domain this quarter?**
 
+2. question
+
 The most interesting topic we covered in my domain this quarter was about the models that can be used for text classification and how our work as students compares to those in the industry. We covered simple models like logistic regression and went towards more complex models like neural networks and LLMs, but it was very interesting to see that the solutions we landed on as students were the same solutions that our mentors used.
 
 2. **Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
